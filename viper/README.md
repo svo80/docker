@@ -16,9 +16,9 @@ Viper can then be invoked with
 $ sudo docker run --rm -p <local port>:8080 viper
 ```
 
-By default, the web interface of Viper is started and can be accessed at http://127.0.0.1:<local port>.
+By default, the web interface of Viper is started and can be accessed via the selected local port at http://127.0.0.1.
 
-The default password is **admin:viper**.
+The default login credentials are **admin:viper**.
 
 
 If you would rather like to work with the terminal version, please run 
